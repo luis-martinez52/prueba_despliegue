@@ -1,5 +1,5 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:743151784228:task-definition/latarea2:1",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:743151784228:task-definition/latarea2:3",
     "containerDefinitions": [
         {
             "name": "latarea2",
@@ -26,7 +26,7 @@
     "taskRoleArn": "arn:aws:iam::743151784228:role/ecsTaskExecutionRole",
     "executionRoleArn": "arn:aws:iam::743151784228:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
-    "revision": 1,
+    "revision": 3,
     "volumes": [],
     "status": "ACTIVE",
     "requiresAttributes": [
@@ -60,7 +60,7 @@
         "cpuArchitecture": "X86_64",
         "operatingSystemFamily": "LINUX"
     },
-    "registeredAt": "2023-07-13T05:15:34.483Z",
+    "registeredAt": "2023-07-13T14:17:19.243Z",
     "registeredBy": "arn:aws:iam::743151784228:root",
     "tags": []
 }
