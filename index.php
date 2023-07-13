@@ -15,6 +15,5 @@
   <body>
     <h1>Hello, world</h1>
     <p>Despliegue continuo 2023</p>
-    <p>Luis Martinez</p>
   </body>
 </html>
